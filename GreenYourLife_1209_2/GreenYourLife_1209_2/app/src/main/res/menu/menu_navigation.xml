@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bt_page_treasure"
+        android:title="綠色藏寶圖"
+        android:icon="@drawable/ic_map"/>
+    <item
+        android:id="@+id/bt_page_friends"
+        android:icon="@drawable/ic_friend"
+        android:title="社群挑戰"/>
+    <item
+        android:id="@+id/bt_page_qrcode"
+        android:icon="@drawable/ic_qrcode"
+        android:title="QR Code" />
+
+    <item
+        android:id="@+id/bt_page_greenshop"
+        android:icon="@drawable/ic_store"
+        android:title="綠色小舖"/>
+    <item
+        android:id="@+id/bt_page_miles"
+        android:title="My C Points"
+        android:icon="@drawable/ic_home"/>
+</menu>

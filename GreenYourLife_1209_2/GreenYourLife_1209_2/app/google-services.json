@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "683435137598",
+    "firebase_url": "https://arcane-silo-308209-default-rtdb.firebaseio.com",
+    "project_id": "arcane-silo-308209",
+    "storage_bucket": "arcane-silo-308209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683435137598:android:cdd4cc98558e1437920f6f",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683435137598-kl64fs5jetboll795ltc28318riaurde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXv_XBzOjX8xmd14NP-nocL-2isy8hQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683435137598-kl64fs5jetboll795ltc28318riaurde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683435137598:android:b7159b358f90cad8920f6f",
+        "android_client_info": {
+          "package_name": "com.example.greenyourlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683435137598-kl64fs5jetboll795ltc28318riaurde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXv_XBzOjX8xmd14NP-nocL-2isy8hQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683435137598-kl64fs5jetboll795ltc28318riaurde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683435137598:android:89b23292a2004dbe920f6f",
+        "android_client_info": {
+          "package_name": "com.example.mis_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683435137598-kl64fs5jetboll795ltc28318riaurde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXv_XBzOjX8xmd14NP-nocL-2isy8hQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683435137598-kl64fs5jetboll795ltc28318riaurde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

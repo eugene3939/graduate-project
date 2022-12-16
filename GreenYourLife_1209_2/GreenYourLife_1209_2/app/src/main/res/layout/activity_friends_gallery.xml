@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".friends_gallery">
+
+    <TextView
+        android:id="@+id/gallery_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="好友藝廊"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:background="@android:color/holo_green_dark"/>
+
+    <com.smarteist.autoimageslider.SliderView
+        android:id="@+id/gallery_sliderView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@id/gallery_title"
+        app:sliderAnimationDuration="1000"
+        app:sliderAutoCycleDirection="back_and_forth"
+        app:sliderIndicatorGravity="center_horizontal|bottom"
+        app:sliderIndicatorOrientation="horizontal"
+        app:sliderIndicatorPadding="4dp"
+        app:sliderIndicatorRadius="1.5dp"
+        app:sliderIndicatorSelectedColor="#636363"
+        app:sliderIndicatorUnselectedColor="#FFFFFF"
+        app:sliderScrollTimeInSec="2"
+        app:sliderStartAutoCycle="true" />
+
+    <TextView
+        android:id="@+id/gallery_click"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="名稱"
+        android:textSize="30dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
